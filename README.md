@@ -11,5 +11,3 @@ Veja como é fácil escrever código:
 ```
 git add index.html
 ```
-
-*PS: lorem ipsum*
