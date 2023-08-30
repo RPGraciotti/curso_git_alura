@@ -10,4 +10,7 @@ Esse readme genérico também foi uma introdução a como trabalhar com markdown
 Veja como é fácil escrever código:
 ```
 git add index.html
+git add README.md
+git commit
+git push
 ```
